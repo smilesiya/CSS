@@ -1,0 +1,12 @@
+#contact-info
+    {font-size:.8em;}
+.job
+    {background-color:#e9e5dc;
+    padding: 15px
+    margin-top: 15px;
+    margin-bottom: 15px;}
+.achivements
+    {font-size:.8em;} 
+.achivements:hover {
+    color: #ff0000;}
+
